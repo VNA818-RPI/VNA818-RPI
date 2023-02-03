@@ -64,7 +64,7 @@ cPanel hosting.
 
 **High Slope Candidate Management Application**
 
-![image](https://user-images.githubusercontent.com/72038310/216490546-0723e290-73c8-4b03-a833-f5e35a1a5c79.png)
+<img src="https://user-images.githubusercontent.com/72038310/216490546-0723e290-73c8-4b03-a833-f5e35a1a5c79.png" width="400">
 
 **[World🌎Search](https://github.com/VNA818/world-search)**
 
