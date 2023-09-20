@@ -10,15 +10,15 @@
 
 ### 👋 Welcome to my Github profile!
 
-I am a Junior pursuing a Bachelor's degree in [Information Technology and Web Science](https://science.rpi.edu/itws) at Rensselaer Polytechnic Institute.
+I am a Senior pursuing a Bachelor's degree in [Information Technology and Web Science](https://science.rpi.edu/itws) with a concentration in Web Technologies at Rensselaer Polytechnic Institute.
 
-I am looking for opportunities in IT, web, or software development this Spring and Summer 2023.
+I am seeking Full-Time Opportunities in the field of front-end software development starting Summer 2024
 
 In my free time I enjoy cycling, graphic design, photography, and games.
 
 ### ❓ About
 
-I specialize in Front end and Full Stack web development, I am most proficient in JavaScript.
+I specialize in front end development and am most proficient in Javascript specifically modern web frameworks such as React.
 
 **I have skills in**
 
@@ -26,45 +26,49 @@ I specialize in Front end and Full Stack web development, I am most proficient i
 - Typescript
 - Web frameworks
   - React
+  - React Native
   - Angular
+- CSS
 - Python
   - Django
 - C
-- PHP
 - Docker
   - Swarm
 - Databases
-  - MySQL
+  - SQL
   - MongoDB
 
 ### 🏢 Work
 
-I am currently a Software Developer for the [Rensselaer Union](https://union.rpi.edu/).
+I am currently working as a frontend software engineer for [Agoro](https://www.linkedin.com/company/agoro-learning?trk=public_profile_topcard-current-company)
 
-> Work with a team of other students to develop applications/features to improve the
-Union's suite of software tools. Working with front-end and back-end web technologies
-such as React and Django. Collaborate with student government and administration office 
-staff to learn about business requirements.
+> Sole designer and front-end developer for the Agoro Unigrader, an all-purpose, automated grading solution. Created comprehensive designs using Figma and developed the web application frontend using React. Collaborated with backend and AI teams.
+
+I am also currently the lead software developer for the [Rensselaer Union](https://www.linkedin.com/company/rensselaer-union/mycompany/)
+
+> Leading a team of students in developing applications to improve the Union's suite of software tools. Working with front-end and back-end web technologies including React and Django. Collaborating with student government and administration office staff to learn about business requirements. Managing essential Union projects such as the Club Management System, Union homepage, and Union elections website. Responsible for Interviewing and hiring new candidates.
+
+I am also working on developing a mobile application for [The Rajput Association of North America](https://www.rajputra.org/)
+
+> Developing a mobile application for the RANA website using React Native. 
 
 I have previously designed developed the website for [The Black Cell Group](https://blackcellgroup.com/).
 
-> Designed and developed the website for the defense and cybersecurity consulting 
-company, The Black Cell Group. Website is being developed using WordPress on Linux 
-cPanel hosting.
+> Designed and developed the website which serves as the main landing page for the defense and cybersecurity consulting company, The Black Cell Group. Developed using WordPress on Linux cPanel hosting.
 
 ### 👨‍💻 Projects
 
 #### Currently I am working on...
 
-- My [personal website](https://vna818.com) and server
-- [Overlord](https://github.com/jwgit9/Overlord-Bot) Discord Bot
-- React VN engine *coming soon...*
+- [md-to-webpage](https://github.com/VNA818/md-to-webpage)
 
 #### Previously I have worked on...
 
 **High Slope Candidate Management Application**
 
 <img src="https://user-images.githubusercontent.com/72038310/216490546-0723e290-73c8-4b03-a833-f5e35a1a5c79.png" width="400">
+
+> Developed the React frontend for a candidate management system for the startup High Slope. The app incorporates a Chrome extension to add candidates from LinkedIn and pull them into a central application for easily managing and connecting with candidates.
 
 **[World🌎Search](https://github.com/VNA818/world-search)**
 
@@ -82,19 +86,25 @@ cPanel hosting.
 
 <img src="https://user-images.githubusercontent.com/33736970/192667760-386ebd29-c282-47b3-80df-d7943d9a949b.jpg" width="400">
 
-> Created for a Web Science Systems course, Pokemon Battles is an online Pokemon Battling game complete with Pokemon teams, friends, online multiplayer battling, shop, and more. Utilized React, OAuth 2.0, Firebase, and Express + Node JS. Part of a team of five.
+> Collaborated in a team of five developing Pokemon Battles; an online Pokemon Battling game complete with teams, friends, online multiplayer, shop, and more. Utilized React, OAuth 2.0, Firebase, and Express + Node JS. Project received an A grade. 
 
-**[Gamespace](https://github.com/VNA818-RPI/Gamespace-Copy)**
+**[Degree planner]()**
 
-<img src="https://user-images.githubusercontent.com/33736970/192667004-57847f1e-c8c7-4f61-bc7a-e0a25e267d58.jpeg" width="400">
+<img src="https://github.com/VNA818/VNA818/assets/33736970/56a7e7aa-1cd5-49c2-8813-f4a1eb0b438e" width="400"/>
 
-> Created for a Web systems course, Gamespace is a gaming focused social media website that features posting with images and categories, adding/discovering friends, customizable profiles, and following your favorite games. Made in HTML + CSS + JS, PHP, and MYSQL. Part of a team of three.
+> Taught basic web development by creating a web version of the [overlord degree planner](https://github.com/overlord-bot/degree-planner-api-2.0)
 
 **[Elyra](https://github.com/elyra-ai/elyra)**
 
 > Learned about and contributed to the IBM open-source project Elyra through the
 Rensselaer Center for Open Source. Elyra is an AI centric Jupyter Lab extension written
 primarily in Python and Typescript.
+
+**[Gamespace](https://github.com/VNA818-RPI/Gamespace-Copy)**
+
+<img src="https://user-images.githubusercontent.com/33736970/192667004-57847f1e-c8c7-4f61-bc7a-e0a25e267d58.jpeg" width="400">
+
+> Created for a Web systems course, Gamespace is a gaming focused social media website that features posting with images and categories, adding/discovering friends, customizable profiles, and following your favorite games. Made in HTML + CSS + JS, PHP, and MYSQL. Part of a team of three.
 
 **[Mips Processor in C](https://github.com/Comp-org-group/project)**
 
