@@ -5,7 +5,7 @@
   📧 <a href="mailto:VNA818@gmail.com" target="_blank">VNA818@gmail.com</a>
   📧 <a href="mailto:arcerv@rpi.edu" target="_blank">arcerv@rpi.edu</a>
   📄 <a href="https://github.com/VNA818/VNA818/blob/main/resume-9-30.pdf" target="_blank">Resume</a>
-  🌐 <a href="https://github.com/VNA818-RPI/">School Github</a>
+  🌐 <a href="https://github.com/VNA818/">Personal Github</a>
 </p>
 
 ### 👋 Welcome to my Github profile!
